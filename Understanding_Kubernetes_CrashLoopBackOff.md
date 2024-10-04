@@ -2,7 +2,7 @@
 ---
 # **Understanding Kubernetes CrashLoopBackOff**
 ---
-![CrashLoopBackOff](https://github.com/alertmend-devops/posts/blob/main/crashloopbackoffimage1.png?raw=true)
+![CrashLoopBackOff](https://github.com/alertmend-devops/posts/blob/main/crashloopbackoffimage2.png?raw=true)
 
 The **CrashLoopBackOff** error in Kubernetes indicates that a pod is repeatedly crashing and restarting. It typically occurs due to configuration issues, insufficient resources, or application bugs. Understanding the root cause helps resolve the issue quickly and maintain application stability.
 
